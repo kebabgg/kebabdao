@@ -6,7 +6,7 @@ export default function Partners({ partnerData }) {
   return (
     <>
       <Head>
-        <title>Community Partners | WebXDAO</title>
+        <title>Community Partners | KEBAB.GG</title>
       </Head>
       <section className="py-8">
         <div className="container max-w-5xl mx-auto">
