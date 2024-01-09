@@ -16,7 +16,7 @@ const contributors = ({ data }) => {
   return (
     <>
       <Head>
-        <title>Contributors | WebXDAO</title>
+        <title>Contributors | KEBAB.GG</title>
       </Head>
       <section className="mx-auto max-w-7xl">
         <div className="container mx-auto max-w-5xl">
