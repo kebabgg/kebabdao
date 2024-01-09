@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const core = [
   {
-    name: "Vincent Villafuerte",
+    name: "ErX Crypto",
     role: "WebX Core",
     imageUrl: "https://github.com/vinzvinci.png",
     githubUrl: "https://github.com/vinzvinci",
@@ -11,7 +11,7 @@ const core = [
     linkedinUrl: "https://www.linkedin.com/in/vinzvinci/",
   },
   {
-    name: "Shubham Kukreti",
+    name: "Cihat Çiçek",
     role: "WebX Core",
     imageUrl: "https://github.com/KukretiShubham.png",
     githubUrl: "https://github.com/KukretiShubham",
@@ -19,7 +19,7 @@ const core = [
     linkedinUrl: "https://www.linkedin.com/in/shubhamkukreti/",
   },
   {
-    name: "Ritvik Shukla",
+    name: "Hiring",
     role: "WebX Core",
     imageUrl: "https://github.com/shuklaritvik06.png",
     githubUrl: "https://github.com/shuklaritvik06",
@@ -27,7 +27,7 @@ const core = [
     linkedinUrl: "https://www.linkedin.com/in/ritvikshukla/",
   },
   {
-    name: "Maxime Kubik",
+    name: "Hiring",
     role: "WebX Core",
     imageUrl: "https://github.com/mkubdev.png",
     githubUrl: "https://github.com/mkubdev",
@@ -67,7 +67,7 @@ export default function Teams() {
   return (
     <>
       <Head>
-        <title>The team | WebXDAO</title>
+        <title>The team | KEBAB.GG</title>
       </Head>
       <div className="py-24 sm:py-32">
         <div className="mx-auto max-w-7xl px-6 text-center lg:px-8">
@@ -76,7 +76,7 @@ export default function Teams() {
               Meet our team
             </h2>
             <p className="mt-4 text-lg leading-8 text-gray-400">
-              We are passionate Open Source Contributors united online and created WebX DAO
+              We are passionate Open Source Contributors united online and created KEBAB.GG
             </p>
           </div>
           <ul
