@@ -8,7 +8,7 @@ const navigation = [
   { name: "Blog", href: "/blog" },
   { name: "Projects", href: "/projects" },
   { name: "Community Partners", href: "/partners" },
-  { name: "WebX Team", href: "/team" },
+  { name: "Kebab Team", href: "/team" },
   { name: "Contributors", href: "/contributors" },
 ];
 
@@ -24,7 +24,7 @@ const Navbar = () => {
           <div className="flex flex-1 items-center">
             <div className="flex w-full items-center justify-between lg:w-auto">
               <Link href="/">
-                <span className="sr-only ">WebX DAO</span>
+                <span className="sr-only ">KEBAB.GG</span>
                 <img
                   className="h-12 w-auto cursor-pointer sm:h-12 md:h-[4.2rem]"
                   src="/images/logo/logo.png"
@@ -54,7 +54,7 @@ const Navbar = () => {
             </div>
 
             <Link
-              href="https://github.com/sponsors/WebXDAO"
+              href="https://github.com/sponsors/KEBABGG_"
               className="inline-flex items-center rounded-md border border-transparent bg-gray-100 px-4 py-2 text-base font-medium text-gray-600 hover:bg-gray-700 hover:text-white/80"
             >
               GitHub
@@ -83,7 +83,7 @@ const Navbar = () => {
                 <img
                   className="h-10 w-auto sm:h-12 md:h-14 lg:h-16"
                   src="/images/logo/logo.png"
-                  alt="WebX DAO"
+                  alt="KEBAB.GG"
                 />
               </div>
               <div className="-mr-2">
