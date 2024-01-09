@@ -15,7 +15,7 @@ export default function AboutSection() {
                       <span className="block">Who Are We?</span>
                     </h1>
                     <p className="mt-3 text-left text-base text-white/80">
-                      WebXDAO is an opensource community that focus on the future of the web. Here
+                      KEBAB.GG is an opensource community that focus on the future of the web. Here
                       you will learn how to become a blockchain developer while having fun with
                       other community members.
                     </p>
