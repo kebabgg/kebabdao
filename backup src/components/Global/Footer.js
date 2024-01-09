@@ -15,16 +15,16 @@ const navigation = [
     name: "Socials",
     href: "/",
     children: [
-      { name: "GitHub", href: "https://github.com/WebXDAO" },
-      { name: "Twitter", href: "https://twitter.com/WebXDAO" },
-      { name: "Discord", href: "https://discord.webxdao.xyz/" },
+      { name: "GitHub", href: "https://github.com/KEBABGG" },
+      { name: "Twitter", href: "https://twitter.com/KEBABGG_" },
+      { name: "Discord", href: "discord.gg/kebab" },
       { name: "LinkedIn", href: "https://www.linkedin.com/company/76098793" },
     ],
   },
   {
     name: "Contact",
     href: "/contact",
-    children: [{ name: "Contact us", href: "mailto:web3opensourcecommunity@gmail.com" }],
+    children: [{ name: "Contact us", href: "mailto:kebabgamesgg@gmail.com" }],
   },
   {
     name: "Partners",
@@ -44,7 +44,7 @@ const Footer = () => {
           <div>
             <div className="flex justify-center text-teal-600 sm:justify-start">
               <Link href="https://webxdao.xyz">
-                <span className="sr-only">WebX DAO</span>
+                <span className="sr-only">KEBAB.GG</span>
                 <img className="h-12 w-auto sm:h-14 md:h-16" src="/images/logo/logo.png" alt="" />
               </Link>
             </div>
@@ -89,7 +89,7 @@ const Footer = () => {
               <span className="flex items-center justify-center">
                 &copy; {new Date().getFullYear()} Made with
                 <SiGithubsponsors className="m-2 h-3 w-3 text-pink-600" aria-hidden="true" />
-                by WebX DAO
+                by Kebab Games
               </span>
             </p>
           </div>
