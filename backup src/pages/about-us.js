@@ -6,7 +6,7 @@ export default function Home({ articles }) {
 	return (
 		<>
 			<Head>
-				<title>About us | WebXDAO</title>
+				<title>About us | KEBAB.GG</title>
 			</Head>
 			<div className="flex flex-col h-screen">
 				<AboutSection />
