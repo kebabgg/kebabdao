@@ -17,7 +17,7 @@ const Blog = ({ data }) => {
   return (
     <>
       <Head>
-        <title>Blog | WebXDAO</title>
+        <title>Blog | KEBAB.GG</title>
       </Head>
       <section className="py-8">
         <div className="container mx-auto max-w-5xl">
